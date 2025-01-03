@@ -18,7 +18,7 @@ When the program starts for the first time, two folders will be created:
 - Font size: 24-150px
 - Font Padding size (for each character): 1-10px
 
-You can find installed fonts on your computer in `C:\Windows\Fonts`.
+## Tips: If you want to use fonts that is installed in your computer, you can copy the fonts you want to use inside `C:\Windows\Fonts` and paste it into `fonts` folder.
 
 ## Preview
 
