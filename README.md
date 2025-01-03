@@ -28,7 +28,7 @@ When the program starts for the first time, two folders will be created:
 - Click "Generate Atlas" and it will show you a preview of the atlas
 - Click "Export". The atlas and the coordinate file will be saved inside `outputs` folder
 
-#### Tips: If you want to you fonts that is installed in your computer, you can find it in `C:\Windows\Fonts`. Copy the fonts and paste it inside `fonts` folder that the program created.
+#### Tips: If you want to use fonts that is installed in your computer, you can find it in `C:\Windows\Fonts`. Copy the fonts and paste it inside `fonts` folder that the program created.
 
 ---
 
