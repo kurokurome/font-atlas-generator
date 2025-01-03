@@ -15,7 +15,7 @@ When the program starts for the first time, two folders will be created:
 
 ## Font Settings
 
-- Allowed Font size: 24-50px
+- Allowed Font size: 16-50px
 - Allowed Font Padding size (for each character): 1-10px
 
 ---
